@@ -3,11 +3,34 @@
   "displayName": "WarmKai",
   "description": "",
   "version": "0.0.1",
+  "publisher": "ViciandoCodigo",
   "engines": {
     "vscode": "^1.91.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords":[
+    "kai",
+    "warm",
+    "warmkai",
+    "warm theme",
+    "warmkai theme",
+    "warmkai color theme",
+    "warmkai vscode theme",
+    "warmkai vscode color theme",
+    "warmkai vscode",
+    "light",
+    "light theme",
+    "lightkai theme",
+    "lightkai color theme",
+    "lightkai vscode theme",
+    "lightkai vscode color theme",
+    "lightkai vscode",
+    "calido",
+    "tema calido",
+    "tema calido vscode",
+    "tema calido vscode warmkai"
   ],
   "contributes": {
     "themes": [
