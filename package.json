@@ -7,10 +7,14 @@
   "engines": {
     "vscode": "^1.91.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Torr1co/warmkai.git"
+  },
   "categories": [
     "Themes"
   ],
-  "keywords":[
+  "keywords": [
     "kai",
     "warm",
     "warmkai",

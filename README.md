@@ -9,9 +9,9 @@ WarmKai es un tema con colores cálidos, diseñado para no quemarte la retina en
 - 🔍 Alto contraste para una lectura fácil y cómoda
 - 👁️ Diseñado para sesiones prolongadas de trabajo
 
-![Jupyter Notebook](/static/jupyter.png)
-![Python](/static/python.png)
-![React](/static/react.png)
+![React](https://raw.githubusercontent.com/Torr1co/warmkai/master/static/react.png)
+![Python](https://raw.githubusercontent.com/Torr1co/warmkai/master/static/python.png)
+![Jupyter](https://raw.githubusercontent.com/Torr1co/warmkai/master/static/jupyter.png)
 
 ## Beneficios
 
