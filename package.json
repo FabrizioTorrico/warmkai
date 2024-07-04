@@ -1,0 +1,21 @@
+{
+  "name": "warmkai",
+  "displayName": "WarmKai",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Warmkai",
+        "uiTheme": "vs",
+        "path": "./themes/Warmkai-color-theme.json"
+      }
+    ]
+  }
+}
