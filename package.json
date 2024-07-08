@@ -2,8 +2,9 @@
   "name": "warmkai",
   "displayName": "WarmKai",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "ViciandoCodigo",
+  "icon": "https://raw.githubusercontent.com/Torr1co/warmkai/master/static/logo.jpg",
   "engines": {
     "vscode": "^1.91.0"
   },

@@ -31,4 +31,4 @@ WarmKai es un tema con colores cálidos, diseñado para no quemarte la retina en
 
 Si tienen algun cambio pueden abrir una pr en el github que es la primera version.
 Espero que esto mejore su experiencia con los temas claros.
-Gracias y sigan viciando codigo 😉.
+Gracias y sigan viciando codigo 🗿.
