@@ -4,7 +4,7 @@
   "description": "",
   "version": "1.2.0",
   "publisher": "ViciandoCodigo",
-  "icon": "/static/logo.jpg",
+  "icon": "static/logo.jpg",
   "engines": {
     "vscode": "^1.91.0"
   },
