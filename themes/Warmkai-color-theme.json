@@ -594,6 +594,7 @@
       ],
       "settings": { "name": "Docstring", "foreground": "#8d8d8d" }
     },
+
     {
       "scope": "constant",
       "settings": { "name": "Constant", "foreground": "#6529b8" }
@@ -706,7 +707,7 @@
     },
     {
       "scope": "entity.name",
-      "settings": { "name": "Entity name", "foreground": "#00A31E" }
+      "settings": { "name": "Entity name", "foreground": "#000000" }
     },
     {
       "scope": "entity.name.class",
@@ -1527,6 +1528,14 @@
         "name": "Reserved variable names: 'arguments'",
         "foreground": "#6529b8"
       }
+    },
+    {
+      "scope": "variable.other.object",
+      "settings": { "name": "Object Property", "foreground": "#2679D1" }
+    },
+    {
+      "scope": "variable.other.object.property",
+      "settings": { "name": "Object Property", "foreground": "#000000" }
     },
     {
       "scope": "variable.other.class",
